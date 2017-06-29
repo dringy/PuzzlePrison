@@ -1,0 +1,55 @@
+{
+	"intents": [
+	{
+		"intent": "AMAZON.HelpIntent"
+	},
+	{
+		"intent": "AMAZON.RepeatIntent"
+	},
+	{
+		"intent": "AMAZON.StartOverIntent"
+	},
+	{
+		"intent": "AMAZON.StopIntent"
+	},
+	{
+		"intent": "AMAZON.CancelIntent"
+	},
+	{
+		"intent": "PlayIntent"
+	},
+	{
+		"intent": "WalkIntent",
+		"slots": [
+		{
+			"name": "object",
+			"type": "Object"
+		}
+		]
+	},
+	{
+		"intent": "InteractIntent"
+	},
+	{
+		"intent": "InteractWithIntent",
+		"slots": [
+		{
+			"name": "object",
+			"type": "Object"
+		}
+		]
+	},
+	{
+		"intent": "ReadIntent"
+	},
+	{
+		"intent": "OptionIntent",
+		"slots": [
+        {
+          "name": "option",
+          "type": "Option"
+        }
+		]
+	}
+	]
+}

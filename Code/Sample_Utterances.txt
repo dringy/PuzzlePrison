@@ -1,0 +1,42 @@
+AMAZON.StartOverIntent replay
+AMAZON.StopIntent stop playing
+PlayIntent play
+PlayIntent start
+PlayIntent launch
+WalkIntent walk {object}
+WalkIntent walk to {object}
+WalkIntent walk towards {object}
+WalkIntent walk toward {object}
+WalkIntent go to {object}
+WalkIntent go towards {object}
+WalkIntent go toward {object}
+WalkIntent head to {object}
+WalkIntent head towards {object}
+WalkIntent head toward {object}
+InteractWithIntent interact {object}
+InteractWithIntent interact with {object}
+InteractWithIntent use {object}
+InteractWithIntent touch {object}
+InteractWithIntent knock on {object}
+InteractWithIntent look through {object}
+InteractWithIntent push {object}
+InteractWithIntent open {object}
+InteractIntent interact
+InteractIntent interact with
+InteractIntent use
+InteractIntent touch
+InteractIntent push
+InteractIntent open
+ReadIntent read
+ReadIntent read letter
+ReadIntent look at letter
+ReadIntent read the letter
+ReadIntent look at the letter
+OptionIntent {option}
+OptionIntent option {option}
+OptionIntent choose {option}
+OptionIntent choose option {option}
+OptionIntent select {option}
+OptionIntent select option {option}
+OptionIntent pick {option}
+OptionIntent pick option {option}

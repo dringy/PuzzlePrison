@@ -1,0 +1,7 @@
+Letter Box - Latchlocker,steel,lever,small,close,release,squeak,snap,ring.wav + Paper_Newspaper_Light_Movement_01.wav
+Solid Knock
+Hollow Knock
+Sharp Click - Latchlocker,design,FutureLoot,score,plunder.wav 2nd half
+Scraping wall and statue - metal, heavy creaks, shipwreck, ship scraping its broadside 02.wav
+Computer Beeping - Interface - Beeps - Deny.wav (Repeat a few times)
+Thank you for playing - Mysterious house jingle

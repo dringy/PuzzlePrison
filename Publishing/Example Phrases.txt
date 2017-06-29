@@ -1,0 +1,3 @@
+Alexa play Puzzle Prison
+Walk to South Wall
+Interact with Computer Terminal

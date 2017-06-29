@@ -1,0 +1,31 @@
+.description{
+	text-align:center;
+	margin-top:6vh;
+	clear: both;
+	color:#a5704c;
+	font-size:150%;
+}
+.amzn-link{
+	color:#a5704c;
+}
+.amzn-link:hover{
+	color:#ff9900;
+}
+.mail-link{
+	color:#a5704c;
+}
+.mail-link:hover{
+	color:#0072c6;
+}
+.guide-link{
+	color:#a5704c;
+}
+.guide-link:hover{
+	color:#1c130d;
+}
+.mysterious-link{
+	color:#a5704c;
+}
+.mysterious-link:hover{
+	color:#9406db;
+}

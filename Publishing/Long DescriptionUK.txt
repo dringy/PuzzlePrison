@@ -1,0 +1,18 @@
+Stuck in a room with no door just a computer, four raven statues and a letter box. Can you decode the cryptic letters and escape the puzzle prison?
+
+In this game, you use two main commands: "Walk To" and "Interact With". You will need to use these commands in conjunction with the clues in the letters to find your way out of the room.
+The game autosaves after each milestone so you can stop playing and come back at any point.
+
+Commands:
+"Play" -> Starts playing the game
+"Walk To [Subject]" -> Moves your character towards the subject
+"Interact with [Subject]" -> You character will use the subject in some way
+"Read Letter" -> Alexa will read aloud the letter
+"Repeat" -> Alexa describes your current situation, useful if you get a bit confused
+"Help" -> Alexa will tell you some commands you can use
+"Restart" -> The game restarts anew
+"Stop" -> Ends the session with the game but keeps the autosave active for when you return
+
+To play, first, the enable this skill and then say "Alexa play Puzzle Prison".
+
+If you want to view a walkthrough, have a problem or want to provide feedback directly to the developer then visit: http://www.puzzleprison.uk/

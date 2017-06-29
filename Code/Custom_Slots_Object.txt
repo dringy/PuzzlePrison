@@ -1,0 +1,44 @@
+North Wall
+South Wall
+East Wall
+West Wall
+Wall
+North
+South
+East
+West
+Letter
+Letter Box
+Computer Terminal
+Northeast Terminal
+Northwest Terminal
+Southeast Terminal
+Southwest Terminal
+Central Terminal
+Terminal
+Northeast Computer
+Northwest Computer
+Southeast Computer
+Southwest Computer
+Central Computer
+Computer
+Metal Cabinet
+Cabinet
+Northeast Statue
+Northwest Statue
+Southeast Statue
+Southwest Statue
+Statue
+Northeast Raven
+Northwest Raven
+Southeast Raven
+Southwest Raven
+Raven
+Northeast
+Northwest
+Southeast
+Southwest
+Northeast Corner
+Northwest Corner
+Southeast Corner
+Southwest Corner

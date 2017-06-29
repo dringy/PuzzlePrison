@@ -1,0 +1,24 @@
+This is a puzzle game based primarily on two commands: "walk to {object} and "interact with {object}. You can walk to and interact with mostly everything described to be in the room. The game autosaves after at each letter. The full solution to the game is as follows:
+
+0 - Start game with "Alexa play Puzzle Prison"
+1 - "Interact with Computer Terminal" to trigger a letter to fall through the letter box
+2 - "Read Letter" to trigger a click SFX
+3 - "Interact with north wall" to push the wall and trigger another letter
+4 - "Read Letter" for instructions to lap
+5 - "Walk To South West Statue"
+6 - "Walk To North West Statue"
+7 - "Walk To North East Statue"
+8 - "Walk To South East Statue" to trigger statue eyes to light up red and a new letter
+9 - "Read Letter" to trigger the statues to turn into computers
+10 - "Interact with South West Computer"
+11 - "Select Option One"
+12 - "Interact with North West Computer"
+13 - "Select Option One"
+14 - "Interact with South East Computer"
+15 - "Select Option Two"
+16 - "Interact with North East Computer"
+17 - "Select Option Two" to trigger another letter
+18 - "Read Letter"
+19 - Exit the game by saying "Stop"
+20 - Resume playing by saying "Alexa play Puzzle Prison" to trigger the final letter
+21 - "Read Letter" to trigger the final set of speech which ends the game.
